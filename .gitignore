@@ -1,4 +1,5 @@
 *.net
 *.txt
 *.py
+! file5.java
 
